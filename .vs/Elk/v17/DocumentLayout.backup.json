@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niloufar\\source\\repos\\Elk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|c:\\users\\niloufar\\source\\repos\\elk\\elk\\elk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|solutionrelative:elk\\elk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|c:\\users\\niloufar\\source\\repos\\elk\\elk\\service\\schaduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|solutionrelative:elk\\service\\schaduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|c:\\users\\niloufar\\source\\repos\\elk\\elk\\interface\\ischaduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|solutionrelative:elk\\interface\\ischaduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|c:\\users\\niloufar\\source\\repos\\elk\\elk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|solutionrelative:elk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|c:\\users\\niloufar\\source\\repos\\elk\\elk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|solutionrelative:elk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|c:\\users\\niloufar\\source\\repos\\elk\\elk\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|solutionrelative:elk\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|c:\\users\\niloufar\\source\\repos\\elk\\elk\\helper\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|solutionrelative:elk\\helper\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|c:\\users\\niloufar\\source\\repos\\elk\\elk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF19E2C-2679-4DE5-BEA4-A3DC8CDF3783}|Elk\\Elk.csproj|solutionrelative:elk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Elk\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\WeatherForecast.cs",
+              "RelativeToolTip": "Elk\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:48:24.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Program.cs",
+              "RelativeDocumentMoniker": "Elk\\Program.cs",
+              "ToolTip": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Program.cs",
+              "RelativeToolTip": "Elk\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:48:06.628Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elk",
+              "DocumentMoniker": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Elk.csproj",
+              "RelativeDocumentMoniker": "Elk\\Elk.csproj",
+              "ToolTip": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Elk.csproj",
+              "RelativeToolTip": "Elk\\Elk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T18:05:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\appsettings.json",
+              "RelativeDocumentMoniker": "Elk\\appsettings.json",
+              "ToolTip": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\appsettings.json",
+              "RelativeToolTip": "Elk\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T18:05:53.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchaduleService.cs",
+              "DocumentMoniker": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Service\\SchaduleService.cs",
+              "RelativeDocumentMoniker": "Elk\\Service\\SchaduleService.cs",
+              "ToolTip": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Service\\SchaduleService.cs",
+              "RelativeToolTip": "Elk\\Service\\SchaduleService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:01:22.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISchaduleService.cs",
+              "DocumentMoniker": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Interface\\ISchaduleService.cs",
+              "RelativeDocumentMoniker": "Elk\\Interface\\ISchaduleService.cs",
+              "ToolTip": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Interface\\ISchaduleService.cs",
+              "RelativeToolTip": "Elk\\Interface\\ISchaduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:00:12.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HangfireAuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Helper\\HangfireAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "Elk\\Helper\\HangfireAuthorizationFilter.cs",
+              "ToolTip": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Helper\\HangfireAuthorizationFilter.cs",
+              "RelativeToolTip": "Elk\\Helper\\HangfireAuthorizationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:57:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Elk\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Niloufar\\source\\repos\\Elk\\Elk\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Elk\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:48:16.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
