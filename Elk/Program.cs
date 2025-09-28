@@ -80,7 +80,7 @@ app.UseHangfireDashboard("/ManageJob", new DashboardOptions
 
 #region Jobs
 RecurringJob.AddOrUpdate<ISchaduleService>(
-    "CreateError Every Hour",
+    "Create Error Every Hour",
     job => job.CreateError(),
     Cron.Hourly
 );
